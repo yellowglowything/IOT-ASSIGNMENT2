@@ -11,4 +11,4 @@ Afterwards, flash the microbit.
 ## How to use 
 Press button A for dots and button B for dash. 
 Dot Dash combinations that represent letters in english will be translated and stored in a buffer. Rest will be discarded.
-Shake the microbit to send the data to the second microbit
+Shake the microbit to display the entire recieved message
